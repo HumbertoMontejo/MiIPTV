@@ -4,20 +4,14 @@ http://blackghost.live/play/ftvall-305.php?c=74&k=b1ack-gh0st&file=.m3u8
 http://blackghost.live/play/ftvall-305.php?c=47&k=b1ack-gh0st&file=.m3u8
 #EXTINF:-1 tvg-logo="https://www.merca2.es/wp-content/uploads/2019/08/logohbo-696x392.jpg",HBO
 http://blackghost.live/play/ftvall-305.php?c=1467&k=b1ack-gh0st&file=.m3u8
-#EXTINF:-1 tvg-logo="https://www.merca2.es/wp-content/uploads/2019/08/logohbo-696x392.jpg",HBO
-https://blackghost.live/305/tvx.php?opcion=xtv28&c=75766
-#EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/hbo2-logo-01-300x284.png",HBO 2
-https://blackghost.live/305/tvx.php?opcion=xtv28&c=75767
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/hbo2-logo-01-300x284.png",HBO 2
 http://blackghost.live/play/ftvall-305.php?c=1555&k=b1ack-gh0st&file=.m3u8
 #EXTINF:-1 tvg-logo="https://img2.freepng.es/20181122/qav/kisspng-hbo-signature-logo-hbo-plus-high-definition-televi-5bf69ffcbaf835.6243931815428894687658.jpg",HBO Signature
-https://blackghost.live/305/tvx.php?opcion=xtv28&c=75769
 http://blackghost.live/play/ftvall-305.php?c=229&k=b1ack-gh0st&file=.m3u8
 #EXTINF:-1 tvg-logo="https://www.directhd.tv/wp-content/uploads/channels/200x200/logo_hbo_family_small.gif",HBO Family
-https://blackghost.live/305/tvx.php?opcion=xtv28&c=75770
 http://blackghost.live/play/ftvall-305.php?c=1500&k=b1ack-gh0st&file=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png",HBO PLus
-https://blackghost.live/305/tvx.php?opcion=xtv28&c=75768
+http://blackghost.live/play/ftvall-305.php?c=1557&k=b1ack-gh0st&file=.m3u8
 #EXTINF:-1,Warner Channel
 https://blackghost.live/play/wistream-305.php?cat=latinos&ch=warner&k=b1ack-ghost&f=.m3u8
 #EXTINF:-1 tvg-logo="https://www.stickpng.com/assets/images/5847f1b0cef1014c0b5e485d.png",ESPN
@@ -78,7 +72,7 @@ https://edge4-hr.cvattv.com.ar/live/live/DisneyXD/SA_Live_dash_enc_2A/dash/Disne
 #EXTINF:-1, Fox
 http://blackghost.live/play/ftvall-222.php?c=1474&k=b1ack-gh0st&file=.m3u8
 #EXTINF:-1, FX
-
+https://blackghost.live/play/wistream-305.php?cat=latinos&ch=foxaction&k=b1ack-ghost&f=.m3u8
 #EXTINF:-1, Space
 https://blackghost.live/play/wistream-305.php?cat=latinos&ch=space&k=b1ack-ghost&f=.m3u8
 #EXTINF:-1,Golden
