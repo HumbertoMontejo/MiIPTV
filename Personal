@@ -50,7 +50,7 @@ http://186.155.200.118:1935/live/telemusica_web/chunklist_w1469736820.m3u8
 #EXTINF:-1, ABC NEWS
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #EXTINF:-1, CARTOON NETWORK
-https://blackghost.live/play/zufree-301.php?c=311
+
 #EXTINF:-1, Animal Planet
 https://blackghost.live/play/zufree-301.php?c=259&f=.ts
 #EXTINF:-1, DISCOVERY CHANNEL
@@ -60,9 +60,9 @@ https://blackghost.live/play/zufree-301.php?c=286
 #EXTINF:-1, Discovery ID
 
 #EXTINF:-1, Discovery Science
-
+https://blackghost.live/301/tvx.php?opcion=xtv29&c=48712
 #EXTINF:-1, Discovery Kids
-
+https://blackghost.live/301/tvx.php?opcion=xtv33&c=1469
 #EXTINF:-1, Disney Junior
 https://blackghost.live/play/zufree-301.php?c=288
 #EXTINF:-1, Disney XD
