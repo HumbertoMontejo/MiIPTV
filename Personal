@@ -1,7 +1,7 @@
 #EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image/Y29tLmFwcGxpY2FzdGVyLmNhcmFjb2x0dl9pY29uXzE1MTg1MDU5NjBfMDIy/icon.png?w=170&fakeurl=1",Caracol
 http://blackghost.live/play/ftvall-301.php?c=74&k=b1ack-gh0st&file=.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.canalrcn.com/ImgCanal/imagenes/rcn-tevision-3.png",RCN
-http://blackghost.live/play/ftvall-301.php?c=47&k=b1ack-gh0st&file=.m3u8
+https://blackghost.live/play/teleclub-301.php?club=RCN&format=.m3u8
 #EXTINF:-1 tvg-logo="https://www.merca2.es/wp-content/uploads/2019/08/logohbo-696x392.jpg",HBO
 http://blackghost.live/play/ftvall-301.php?c=1467&k=b1ack-gh0st&file=.m3u8
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/hbo2-logo-01-300x284.png",HBO 2
@@ -27,7 +27,7 @@ https://e10.stephn.xyz/ingestnb4s/espn2_sur/d.m3u8
 #EXTINF:-1,Fox Sports 3
 
 #EXTINF:-1 tvg-logo="https://www.logolynx.com/topic/espn2#&gid=1&pid=2",Disney Channel
-https://edge4-hr.cvattv.com.ar/live/c3eds/DisneyChannelHD/SA_Live_dash_enc_2A/dash/DisneyChannelHD-audio_20000=144800.track_id=20000-init.mp4
+https://blackghost.live/play/teleclub-301.php?club=DISNEY&format=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/The_CW.svg/1200px-The_CW.svg.png",The CW
 https://www.stream2watch.is/frames/live-streaming.mp4
 #EXTINF:-1,TNT Series
@@ -50,25 +50,25 @@ http://186.155.200.118:1935/live/telemusica_web/chunklist_w1469736820.m3u8
 #EXTINF:-1, ABC NEWS
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #EXTINF:-1, CARTOON NETWORK
-https://edge4-hr.cvattv.com.ar/live/c3eds/CartoonNetwork/SA_Live_dash_enc_2A/dash/CartoonNetwork-video=678000.track_id=10000-5818757893832.mp4
+https://blackghost.live/play/teleclub-301.php?club=CARTOON&format=.m3u8
 #EXTINF:-1, Animal Planet
-http://161.0.157.5/PLTV/88888888/224/3221226253/index.m3u8
+https://blackghost.live/play/teleclub-301.php?club=ANIMALPLANET&format=.m3u8
 #EXTINF:-1, DISCOVERY CHANNEL
-
+https://blackghost.live/play/teleclub-301.php?club=DISCOVERY&format=.m3u8
 #EXTINF:-1, DISCOVERY TURBO
-https://zf8113m9dpznta9.ezcdn462.net:8443/hls/xi6ufvw.m3u8?s=mprUYIPclOliXPJAGz4R_A&e=1614050062
+https://blackghost.live/play/teleclub-301.php?club=DTURBO&format=.m3u8
 #EXTINF:-1, Discovery ID
 
 #EXTINF:-1, Discovery Science
-
+https://blackghost.live/play/teleclub-301.php?club=DSCIENCES&format=.m3u8
 #EXTINF:-1, Discovery Kids
-https://edge4-hr.cvattv.com.ar/live/c2live/Discovery_Kids/SA_Live_dash_enc_2A/dash/Discovery_Kids-video=530000.track_id=10011-5818755569915.mp4
-#EXTINF:-1, Disney Junior
-http://free1001.free-live.xyz:2052/free10/140/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMS8yMDIxIDEwOjE1OjM4IFBNJmhhc2hfdmFsdWU9T3hNT3IwcFNOY2VCYkNycWNSelJXUT09JnZhbGlkbWludXRlcz0yNDA=
-#EXTINF:-1, Disney XD
-https://edge4-hr.cvattv.com.ar/live/live/DisneyXD/SA_Live_dash_enc_2A/dash/DisneyXD-audio_AACL_eng_144800_50=144800.track_id=20003-init.mp4
-#EXTINF:-1, Nat Geo
 
+#EXTINF:-1, Disney Junior
+https://blackghost.live/play/teleclub-301.php?club=DISNEYJR&format=.m3u8
+#EXTINF:-1, Disney XD
+https://blackghost.live/play/teleclub-301.php?club=DISNEYXD&format=.m3u8
+#EXTINF:-1, Nat Geo
+https://blackghost.live/play/teleclub-301.php?club=NATGEO&format=.m3u8
 #EXTINF:-1, Fox
 http://blackghost.live/play/ftvall-222.php?c=1474&k=b1ack-gh0st&file=.m3u8
 #EXTINF:-1, FX
@@ -86,7 +86,7 @@ http://blackghost.live/play/ftvall-301.php?c=1518&k=b1ack-gh0st&file=.m3u8
 #EXTINF:-1,Universal
 
 #EXTINF:-1,Comedy Central
-
+https://blackghost.live/play/teleclub-301.php?club=COMEDYCENTRAL&format=.m3u8
 #EXTINF:-1,Music Top (ARG)
 http://live-edge01.telecentro.net.ar:1935/live/msctphd-720/playlist.m3u8
 #EXTINF:-1,Telemax
