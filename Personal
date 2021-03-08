@@ -27,16 +27,14 @@ https://blackghost.live/play/tlvall-301.php?c=1851&f=.m3u8
 https://blackghost.live/play/tlvall-301.php?c=1850&f=.m3u8
 #EXTINF:-1,Fox Sports 3
 https://blackghost.live/play/tlvall-301.php?c=1394&f=.m3u8
-#EXTINF:-1 tvg-logo="https://www.logolynx.com/topic/espn2#&gid=1&pid=2",Disney Channel
-https://blackghost.live/play/teleclub-301.php?club=DISNEY&format=.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/The_CW.svg/1200px-The_CW.svg.png",The CW
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/The_CW.svg",The CW
 https://www.stream2watch.is/frames/live-streaming.mp4
 #EXTINF:-1,TNT Series
 http://blackghost.live/play/ftvall-301.php?c=1510&k=b1ack-gh0st&file=.m3u8
 #EXTINF:-1,TNT
 http://blackghost.live/play/ftvall-301.php?c=1472&k=b1ack-gh0st&file=.m3u8
 #EXTINF:-1 tvg-logo="https://sarapanacea.files.wordpress.com/2018/05/logo-syfy.png?w=300",SyFy
-https://blackghost.live/play/tlvall-301.php?c=1547&f=.m3u8
+http://blackghost.live/play/tvghd-301.php?id=syfy-en-vivo&f=.m3u8
 #EXTINF:-1,DW
 http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
 #EXTINF:-1,Popular TV Melilla
@@ -60,13 +58,13 @@ https://blackghost.live/play/zufree-301.php?c=286
 
 #EXTINF:-1, Discovery Science
 https://blackghost.live/301/tvx.php?opcion=xtv29&c=48712
+#EXTINF:-1 tvg-logo="https://www.logolynx.com/topic/espn2#&gid=1&pid=2",Disney Channel
+
 #EXTINF:-1, Discovery Kids
 https://blackghost.live/301/tvx.php?opcion=xtv33&c=1469
 #EXTINF:-1, Disney Junior
 https://blackghost.live/play/zufree-301.php?c=288
 #EXTINF:-1, Disney XD
-
-#EXTINF:-1, Nat Geo
 
 #EXTINF:-1, Fox
 http://blackghost.live/play/ftvall-222.php?c=1474&k=b1ack-gh0st&file=.m3u8
@@ -74,7 +72,7 @@ http://blackghost.live/play/ftvall-222.php?c=1474&k=b1ack-gh0st&file=.m3u8
 https://blackghost.live/play/wistream-301.php?cat=latinos&ch=foxaction&k=b1ack-ghost&f=.m3u8
 #EXTINF:-1, Space
 https://blackghost.live/play/wistream-301.php?cat=latinos&ch=space&k=b1ack-ghost&f=.m3u8
-#EXTINF:-1,Golden
+#EXTINF:-1, Golden
 https://blackghost.live/301/tvx.php?opcion=xtv31&c=1060
 #EXTINF:-1, Nat Geo
 https://blackghost.live/play/tlvall-301.php?c=1508&f=.m3u8
