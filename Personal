@@ -3,13 +3,13 @@ http://blackghost.live/play/ftvall-301.php?c=74&k=b1ack-gh0st&file=.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.canalrcn.com/ImgCanal/imagenes/rcn-tevision-3.png",RCN
 https://blackghost.live/play/teleclub-301.php?club=RCN&format=.m3u8
 #EXTINF:-1 tvg-logo="https://www.merca2.es/wp-content/uploads/2019/08/logohbo-696x392.jpg",HBO
-https://blackghost.live/play/zufree-301.php?c=312
+http://blackghost.live/play/ftvall-301.php?c=1467&k=b1ack-gh0st&file=.m3u8
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/hbo2-logo-01-300x284.png",HBO 2
-https://blackghost.live/play/zufree-301.php?c=311
+http://blackghost.live/play/ftvall-301.php?c=1555&k=b1ack-gh0st&file=.m3u8
 #EXTINF:-1 tvg-logo="https://img2.freepng.es/20181122/qav/kisspng-hbo-signature-logo-hbo-plus-high-definition-televi-5bf69ffcbaf835.6243931815428894687658.jpg",HBO Signature
 http://blackghost.live/play/ftvall-301.php?c=229&k=b1ack-gh0st&file=.m3u8
 #EXTINF:-1 tvg-logo="https://www.directhd.tv/wp-content/uploads/channels/200x200/logo_hbo_family_small.gif",HBO Family
-http://blackghost.live/play/ftvall-301.php?c=1500&k=b1ack-gh0st&file=.m3u8
+https://blackghost.live/play/zufree-301.php?c=311
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png",HBO PLus
 http://blackghost.live/play/ftvall-301.php?c=1557&k=b1ack-gh0st&file=.m3u8
 #EXTINF:-1,Warner Channel
