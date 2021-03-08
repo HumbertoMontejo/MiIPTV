@@ -1,5 +1,6 @@
 #EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image/Y29tLmFwcGxpY2FzdGVyLmNhcmFjb2x0dl9pY29uXzE1MTg1MDU5NjBfMDIy/icon.png?w=170&fakeurl=1",Caracol
 http://blackghost.live/play/ftvall-301.php?c=74&k=b1ack-gh0st&file=.m3u8
+https://blackghost.live/play/tlvall-301.php?c=74&f=.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.canalrcn.com/ImgCanal/imagenes/rcn-tevision-3.png",RCN
 https://blackghost.live/play/teleclub-301.php?club=RCN&format=.m3u8
 #EXTINF:-1 tvg-logo="https://www.merca2.es/wp-content/uploads/2019/08/logohbo-696x392.jpg",HBO
@@ -15,17 +16,17 @@ http://blackghost.live/play/ftvall-301.php?c=1557&k=b1ack-gh0st&file=.m3u8
 #EXTINF:-1,Warner Channel
 https://blackghost.live/play/zufree-301.php?c=359
 #EXTINF:-1 tvg-logo="https://www.stickpng.com/assets/images/5847f1b0cef1014c0b5e485d.png",ESPN
-https://e10.stephn.xyz/ingestnb4s/espn_sur/d.m3u8
+https://blackghost.live/play/25-301.php?c=1117
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/0BbYqNQQTDI/maxresdefault.jpg",ESPN 2
-https://e10.stephn.xyz/ingestnb4s/espn2_sur/d.m3u8
+http://blackghost.live/play/tvghd-301.php?id=espn-2-en-vivo&f=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png",ESPN 3
-
+http://blackghost.live/play/tvghd-301.php?id=espn-3-en-vivo&f=.m3u8
 #EXTINF:-1,Fox Sports
-
+https://blackghost.live/play/tlvall-301.php?c=1851&f=.m3u8
 #EXTINF:-1,Fox Sports 2
-
+https://blackghost.live/play/tlvall-301.php?c=1850&f=.m3u8
 #EXTINF:-1,Fox Sports 3
-
+https://blackghost.live/play/tlvall-301.php?c=1394&f=.m3u8
 #EXTINF:-1 tvg-logo="https://www.logolynx.com/topic/espn2#&gid=1&pid=2",Disney Channel
 https://blackghost.live/play/teleclub-301.php?club=DISNEY&format=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/The_CW.svg/1200px-The_CW.svg.png",The CW
@@ -34,10 +35,8 @@ https://www.stream2watch.is/frames/live-streaming.mp4
 http://blackghost.live/play/ftvall-301.php?c=1510&k=b1ack-gh0st&file=.m3u8
 #EXTINF:-1,TNT
 http://blackghost.live/play/ftvall-301.php?c=1472&k=b1ack-gh0st&file=.m3u8
-#EXTINF:-1 tvg-logo="",Telemundo
-
 #EXTINF:-1 tvg-logo="https://sarapanacea.files.wordpress.com/2018/05/logo-syfy.png?w=300",SyFy
-
+https://blackghost.live/play/tlvall-301.php?c=1547&f=.m3u8
 #EXTINF:-1,DW
 http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
 #EXTINF:-1,Popular TV Melilla
@@ -77,8 +76,10 @@ https://blackghost.live/play/wistream-301.php?cat=latinos&ch=foxaction&k=b1ack-g
 https://blackghost.live/play/wistream-301.php?cat=latinos&ch=space&k=b1ack-ghost&f=.m3u8
 #EXTINF:-1,Golden
 https://blackghost.live/301/tvx.php?opcion=xtv31&c=1060
+#EXTINF:-1, Nat Geo
+https://blackghost.live/play/tlvall-301.php?c=1508&f=.m3u8
 #EXTINF:-1, Nat Geo Wild
-
+https://blackghost.live/play/tlvall-301.php?c=1507&f=.m3u8
 #EXTINF:-1, Cinecanal
 https://blackghost.live/play/zufree-301.php?c=275
 #EXTINF:-1, Cinemax
@@ -91,12 +92,10 @@ http://blackghost.live/play/ftvall-301.php?c=1518&k=b1ack-gh0st&file=.m3u8
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
 #EXTINF:-1,Top Latino
 https://5cefcbf58ba2e.streamlock.net/tltvweb/tltvweb.stream/chunklist_w837113724.m3u8
-#EXTINF:-1,NICK
-
 #EXTINF:-1,NICK_JR
-
+https://blackghost.live/play/zufree-301.php?c=335
 #EXTINF:-1 tvg-logo="https://www.pngfind.com/pngs/m/501-5016201_los-simpson-logo-png-logo-the-simpsons-png.png",Los Simpson
-
+https://blackghost.live/play/zufree-301.php?c=8&f=.ts
 #EXTINF:-1,NASA TV
 https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
 #EXTINF:-1,TLX
