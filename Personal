@@ -40,6 +40,8 @@ https://blackghost.live/play/tlvall-301.php?c=1547&f=.m3u8
 http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
 #EXTINF:-1,Popular TV Melilla
 https://5940924978228.streamlock.net/8009/8009/master.m3u8
+#EXTINF:-1,TLC
+http://blackghost.live/play/ftvall-301.php?c=1563&k=b1ack-gh0st&file=.m3u8
 #EXTINF:-1,ETBSat
 http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/Telemusica-Colombia-en-vivo-Online.png",Telemusica
@@ -79,6 +81,8 @@ https://blackghost.live/301/tvx.php?opcion=xtv31&c=1060
 https://blackghost.live/play/tlvall-301.php?c=1508&f=.m3u8
 #EXTINF:-1, Nat Geo Wild
 https://blackghost.live/play/tlvall-301.php?c=1507&f=.m3u8
+#EXTINF:-1, Nat Geo Kids
+http://blackghost.live/play/ftvall-301.php?c=1570&k=b1ack-gh0st&file=.m3u8
 #EXTINF:-1, Cinecanal
 https://blackghost.live/play/zufree-301.php?c=275
 #EXTINF:-1, Cinemax
