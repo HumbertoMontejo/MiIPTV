@@ -31,9 +31,9 @@ https://www.stream2watch.is/frames/live-streaming.mp4
 #EXTINF:-1,TUDN
 https://blackghost.live/play/tlvall-400.php?c=267&f=.m3u8
 #EXTINF:-1,TNT Series
-http://blackghost.live/play/ftvall-400.php?c=1510&k=b1ack-gh0st&file=.m3u8
+https://blackghost.live/play/zufree-400.php?c=352
 #EXTINF:-1,TNT
-http://blackghost.live/play/ftvall-400.php?c=1472&k=b1ack-gh0st&file=.m3u8
+https://blackghost.live/play/zufree-400.php?c=351
 #EXTINF:-1 tvg-logo="https://sarapanacea.files.wordpress.com/2018/05/logo-syfy.png?w=300",SyFy
 https://blackghost.live/play/tlvall-400.php?c=1547&f=.m3u8
 #EXTINF:-1,DW
@@ -70,7 +70,7 @@ https://blackghost.live/play/zufree-400.php?c=288
 #EXTINF:-1, Disney XD
 https://blackghost.live/play/zufree-400.php?c=341
 #EXTINF:-1, Fox
-http://blackghost.live/play/ftvall-400.php?c=1474&k=b1ack-gh0st&file=.m3u8
+https://blackghost.live/play/zufree-400.php?c=356
 #EXTINF:-1, FX
 https://blackghost.live/play/wistream-400.php?cat=latinos&ch=foxaction&k=b1ack-ghost&f=.m3u8
 #EXTINF:-1, Space
