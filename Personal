@@ -139,3 +139,5 @@ https://prod.radio-api.net/stations/now-playing?stationIds=amoryfe
 https://17563.live.streamtheworld.com/977_HITS_SC
 #EXTINF:-1 tvg-logo="https://mx.radio.net/images/broadcasts/8d/76/3600/1/c300.png",Today's Hits Radio
 https://17563.live.streamtheworld.com/977_HITS.mp3
+#EXTINF:-1 tvg-logo="https://mx.radio.net/images/broadcasts/8d/76/3600/1/c300.png",Today's Hits Radio
+https://prod.radio-api.net/stations/now-playing?stationIds=hitsradiotodayshits
