@@ -123,3 +123,13 @@ https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussen
 http://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8?PlaylistM3UCL
 #EXTINF:-1,  PANAMERICANA
 https://cdnhd.iblups.com/hls/ptv2.m3u8
+#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/new_assets/5c9e63ecfa47e3153c723ee8",KISS FM
+https://ample.revma.ihrhls.com/zc185/59_1u35xd4u5gqh702/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/new_assets/5c9e63ecfa47e3153c723ee8",KISS FM
+https://stream.revma.ihrhls.com/zc185/hls.m3u8
+#EXTINF:-1 tvg-logo="https://mx.radio.net/images/broadcasts/4c/ce/10732/1/c175.png",Los 40
+https://20723.live.streamtheworld.com/LOS40AAC.aac?csegid=12000&gdpr=1&gdpr_consent=CPFrPAKPFrPAKAHABBENBYCsAP_AAH_AAAAAHwtf_X__b3_j-_59__t0eY1f9_7_v-0zjhfdt-8N2f_X_L8X42M7vF36pq4KuR4Eu3LBIQdlHOHcTUmw6okVrTPsbk2Mr7NKJ7PEinMbe2dYGH9_n93TuZKY7__8___z__-__v____f_r-3_3__59X---_e_V399zLv9__3-B7oBJhqXwAWYljgyTRpVCiBCFYSHQCgAooBhaJrCBlcFOyuAj1BAwAQmoCMCIEGIKMWAQACAQBIREBIAeCARAEQCAAEAKkBCAAjYBBYAWBgEAAoBoWIEUAQgSEGRwVHKYEBEi0UE9lYAlF3saYQhlFgBQKP6KjARKEECwMhIAAAA.f_gAD_gAAAAA&dist=los40-web-live_streaming_play&tdsdk=js-2.9&pname=TDSdk&pversion=2.9&banners=300x250&sbmid=afdae688-23a3-4904-de5a-23daddc51eb6
+#EXTINF:-1 tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/qnmku3rspdmj.jpg",Amor y fé
+https://server.radiogs.org:7067/stream/1/
+#EXTINF:-1 tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/qnmku3rspdmj.jpg",Amor y fé
+https://prod.radio-api.net/stations/now-playing?stationIds=amoryfe
