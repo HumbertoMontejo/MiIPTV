@@ -133,3 +133,7 @@ https://20723.live.streamtheworld.com/LOS40AAC.aac?csegid=12000&gdpr=1&gdpr_cons
 https://server.radiogs.org:7067/stream/1/
 #EXTINF:-1 tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/qnmku3rspdmj.jpg",Amor y fé
 https://prod.radio-api.net/stations/now-playing?stationIds=amoryfe
+#EXTINF:-1 tvg-logo="https://mx.radio.net/images/broadcasts/8d/76/3600/1/c300.png",Today's Hits Radio
+https://17563.live.streamtheworld.com/977_HITS_SC
+#EXTINF:-1 tvg-logo="https://mx.radio.net/images/broadcasts/8d/76/3600/1/c300.png",Today's Hits Radio
+https://metadata-api.mytuner.mobi/api/v1/metadata-api/web/metadata?app_codename=radiocolombia_web&radio_id=409552&time=1620135585352
