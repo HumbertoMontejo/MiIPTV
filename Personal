@@ -131,3 +131,5 @@ https://17843.live.streamtheworld.com/LOS40_COLOMBIAAAC_SC
 https://server.radiogs.org:7067/stream/1/
 #EXTINF:-1 tvg-logo="https://mx.radio.net/images/broadcasts/8d/76/3600/1/c300.png",Today's Hits Radio
 https://17563.live.streamtheworld.com/977_HITS_SC
+#EXT-X-STREAM-INF:BANDWIDTH=22050,CODECS="mp4a.40.2"
+https://ample.revma.ihrhls.com/zc185/74_119yz0py8nttr02/playlist.m3u8
