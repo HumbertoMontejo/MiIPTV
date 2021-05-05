@@ -129,6 +129,14 @@ https://stream.revma.ihrhls.com/zc185/hls.m3u8
 https://n09b-e2.revma.ihrhls.com/zc185/9_68mdkdv3wfxk02/playlist.m3u8?rj-ttl=5&rj-tok=AAABeT0A_vsAWYDrf5sqFug_Jg
 #EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/new_assets/5c9e63ecfa47e3153c723ee8",KISS FM
 https://n3ab-e2.revma.ihrhls.com/zc185/58_3b5rs4mh6orq02/playlist.m3u8?rj-ttl=5&rj-tok=AAABeT0BskkAlGVmL6gkCViEng
+#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/new_assets/5c9e63ecfa47e3153c723ee8",KISS FM
+https://cdn-cms.tunein.com/service/Audio/disabledredirect.enUS.mp3
+#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/new_assets/5c9e63ecfa47e3153c723ee8",KISS FM
+https://cb.streamguys1.com/wbdr.aac
+#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/new_assets/5c9e63ecfa47e3153c723ee8",KISS FM
+https://n4bb-e2.revma.ihrhls.com/zc4342?rj-ttl=5&rj-tok=AAABeT0GabAAWZ92Lh_6vdUVbQ
+#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/new_assets/5c9e63ecfa47e3153c723ee8",KISS FM
+https://opml.radiotime.com/Tune.ashx?id=s232799&render=json&listenId=1620225986&itemToken=BgUFAAEAAQABAAEAb28BX40DAAEFAAA&formats=mp3,aac,ogg,flash,html,hls,wma&type=station&us_privacy=1YNY&paln=&gdpr=0&serial=b38ac4d4-a4e0-4860-b13d-10aff7492684&partnerId=RadioTime&version=4.53&itemUrlScheme=secure&reqAttempt=1
 #EXTINF:-1 tvg-logo="https://mx.radio.net/images/broadcasts/4c/ce/10732/1/c175.png",Los 40
 https://17843.live.streamtheworld.com/LOS40_COLOMBIAAAC_SC
 #EXTINF:-1 tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/qnmku3rspdmj.jpg",Amor y fé
