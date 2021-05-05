@@ -130,6 +130,6 @@ https://ample.revma.ihrhls.com/zc185/74_119yz0py8nttr02/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://mx.radio.net/images/broadcasts/4c/ce/10732/1/c175.png",Los 40
 https://17843.live.streamtheworld.com/LOS40_COLOMBIAAAC_SC
 #EXTINF:-1 tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/qnmku3rspdmj.jpg",Amor y fé
-https://server.radiogs.org:7067/stream/1/
+https://server.radiogs.org:7067/;
 #EXTINF:-1 tvg-logo="https://mx.radio.net/images/broadcasts/8d/76/3600/1/c300.png",Today's Hits Radio
 https://17563.live.streamtheworld.com/977_HITS_SC
