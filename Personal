@@ -1,7 +1,7 @@
 #EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image/Y29tLmFwcGxpY2FzdGVyLmNhcmFjb2x0dl9pY29uXzE1MTg1MDU5NjBfMDIy/icon.png?w=170&fakeurl=1",Caracol
-http://170.79.233.222:8500/play/a0l3/index.m3u8
-#EXTINF:-1 tvg-logo="https://imagenes.canalrcn.com/ImgCanal/imagenes/rcn-tevision-3.png",RCN
 
+#EXTINF:-1 tvg-logo="https://imagenes.canalrcn.com/ImgCanal/imagenes/rcn-tevision-3.png",RCN
+http://tecnotv.club/thet/smartv.php?c=658_&f=.m3u8
 #EXTINF:-1 tvg-logo="https://www.merca2.es/wp-content/uploads/2019/08/logohbo-696x392.jpg",HBO
 https://blackghost.live/play/zufree-505.php?c=312
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/hbo2-logo-01-300x284.png",HBO 2
@@ -35,7 +35,7 @@ https://blackghost.live/play/zufree-505.php?c=352
 #EXTINF:-1,TNT
 https://blackghost.live/play/zufree-505.php?c=351
 #EXTINF:-1 tvg-logo="https://sarapanacea.files.wordpress.com/2018/05/logo-syfy.png?w=300",SyFy
-http://ipeteve.com/php/REGIO_PLAY_281119/regio22.php?c=syfy-1&f=.m3u8
+http://tecnotv.club/thet/smartv.php?c=547_&f=.m3u8
 #EXTINF:-1,DW
 http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
 #EXTINF:-1,Popular TV Melilla
